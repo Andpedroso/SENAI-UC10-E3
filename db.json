@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "email": "ankpedroso@gmail.com",
+      "password": "$2a$10$FIGRDxcr0qheY5V9OmgMpeIHtygzPSgyujQt5E70.94OSwrP8BYdm",
+      "id": 1
+    }
+  ],
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Notícia 1",
+      "descricao": "Hideo Kogima é o melhor produtor de games."
+    },
+    {
+      "titulo": "Notícia 2",
+      "descricao": "Castlevania é o melhor jogo.",
+      "id": 2
+    },
+    {
+      "titulo": "Notícia 3",
+      "descricao": "Metroid é o melhor jogo.",
+      "id": 3
+    },
+    {
+      "titulo": "Notícia 4",
+      "descricao": "Metal Gear é o melhor jogo.",
+      "id": 4
+    },
+    {
+      "titulo": "Notícia 5",
+      "descricao": "Metroidvania é o melhor gênero.",
+      "id": 5
+    },
+    {
+      "titulo": "Notícia 6",
+      "descricao": "Sem descrição.",
+      "id": 6
+    }
+  ]
+}

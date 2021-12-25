@@ -1,0 +1,17 @@
+h2
+{
+    font-size: 40px;
+    padding: 400px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.notfound
+{
+    background-image: url(/assets/deserto.jpg);
+    height: fit-content;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

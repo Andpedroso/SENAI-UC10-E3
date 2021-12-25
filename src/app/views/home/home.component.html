@@ -1,0 +1,18 @@
+<app-header></app-header>
+<section class="grid_noticias">
+    <div>
+        <div >
+            <h2>Notícias</h2>
+            <div >
+                <div  *ngFor="let noticia of noticias" >
+                    <div class="cards">
+                        <h3>{{noticia.titulo}}</h3>
+                        <p>{{noticia.descricao}}</p>
+                    </div>
+                </div>
+            </div>
+            <br>
+        </div>
+    </div>
+</section>
+<app-footer></app-footer>
